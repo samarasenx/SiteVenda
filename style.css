@@ -93,9 +93,7 @@ section{
 .btn:hover{
     letter-spacing: 0.1rem;
 }
-    l
-
-
+    
 .home-container{
     background: url("./img/home-img.jpg");
     height: 100vh;
@@ -165,3 +163,4 @@ section{
 }
 
 /* MENU */
+
